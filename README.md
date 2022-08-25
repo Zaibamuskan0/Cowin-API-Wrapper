@@ -1,4 +1,4 @@
 # Cowin Node API
 
 
-Sampel changes
+Sample changes
